@@ -2,11 +2,11 @@
 
 > Upload any legal notice. Understand your rights. Fight back.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-gold?style=for-the-badge)](YOUR_LIVE_URL_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](YOUR_GITHUB_URL_HERE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-gold?style=for-the-badge)](https://nyayabot-amber.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](https://github.com/Agihtaws/nyayabot)
 [![YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_URL_HERE)
 
-![NyayaBot Screenshot](YOUR_SCREENSHOT_URL_HERE)
+![NyayaBot Screenshot](./public/Banner.png)
 
 ---
 
